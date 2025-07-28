@@ -15,7 +15,7 @@ Analisar transações financeiras pessoais para identificar padrões de comporta
 - Python
 - Jupyter Notebook
 - Pandas
-- Matplotlib / Seaborn (para gráficos)
+- Power bi (para gráficos)
 - GitHub
 
 ## 📁 Dados usados
@@ -27,7 +27,7 @@ Analisar transações financeiras pessoais para identificar padrões de comporta
 
 ## 📈 Gráficos (em breve)
 
-Em breve este repositório incluirá visualizações dos dados, com gráficos para facilitar a interpretação dos resultados.
+Power bi
 
 ## 👨‍💻 Sobre mim
 
